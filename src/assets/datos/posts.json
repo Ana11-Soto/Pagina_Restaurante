@@ -1,0 +1,47 @@
+[
+    {
+        "titulo":"Ensaladas",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Sopas",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Salsas",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Guarniciones",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Pescados",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Mariscos",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Carnes",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Postres",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    },
+    {
+        "titulo":"Bebidas",
+        "img": "assets/img/bebidass.jpg",
+        "link": "VER MÁS"
+    }
+]
